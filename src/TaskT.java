@@ -5,7 +5,6 @@ public class TaskT {
         int a= in.nextInt();
         int b= in.nextInt();
         int c= in.nextInt();
-
         double D = b * b - 4 * a * c;
 
         if (D > 0) {
